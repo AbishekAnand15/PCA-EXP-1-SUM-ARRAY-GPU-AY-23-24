@@ -2,7 +2,7 @@
 <h3>NAME: Abishek Xavier A</h3>
 <h3>REGISTER NO: 212222230004</h3>
 <h3>EX NO: 01</h3>
-<h3>DATE: 07.03.2024</h3>
+<h3>DATE </h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
   
 PCA-GPU-based-vector-summation.-Explore-the-differences.
